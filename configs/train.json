@@ -1,0 +1,6 @@
+{
+  "description": "Unaligned Guided Thermal Image Super-resolution.",
+  "dataset_name": "flir_train",
+  "do_flipping": 0,
+  "base_lr": 0.0001
+}
